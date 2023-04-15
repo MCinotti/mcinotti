@@ -1,1 +1,1 @@
-# ⚡ Fun fact: *A severed foot is the ultimate stocking stuffer!*
+#  *A severed foot is the ultimate stocking stuffer!*
