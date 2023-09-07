@@ -1,5 +1,8 @@
 # Hey there! 👋 I'm MCinotti
 
+[![Status for @MCinotti](https://badge.stateful.com/MCinotti/status.svg)](https://app.stateful.com/@MCinotti)
+[![Status for @MCinotti](https://badge.stateful.com/MCinotti/dnd.svg)](https://app.stateful.com/@MCinotti)
+
 ## 🎵 About Me
 I'm a versatile individual with a strong passion for music, development, engineering, and technical troubleshooting. My journey started in the world of music, where I honed my skills as a musician, composer, and creative thinker. Over time, I expanded my horizons and delved into the realms of development, engineering, and technical problem-solving, creating a unique blend of skills that set me apart.
 
