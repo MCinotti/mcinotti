@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm MCinotti
+# Hey there! 👋
 
 [![Status for @MCinotti](https://badge.stateful.com/MCinotti/status.svg)](https://app.stateful.com/@MCinotti)
 [![Status for @MCinotti](https://badge.stateful.com/MCinotti/dnd.svg)](https://app.stateful.com/@MCinotti)
